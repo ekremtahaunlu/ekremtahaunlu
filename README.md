@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF78A&background=FFFFFF00&center=true&width=435&lines=Visitor+Counter" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF78A&background=FFFFFF00&center=true&width=435&lines=Welcome+Stranger!" alt="Typing SVG" /></a>
