@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ekremtahaunlu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12eTqz-Vc7oMV_EjQZhOt1rZZVTq7M86B/view?usp=sharing](https://drive.google.com/file/d/12eTqz-Vc7oMV_EjQZhOt1rZZVTq7M86B/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/12eTqz-Vc7oMV_EjQZhOt1rZZVTq7M86B/view?usp=sharing](https://drive.google.com/file/d/12eTqz-Vc7oMV_EjQZhOt1rZZVTq7M86B/view?usp=sharing](https://drive.google.com/file/d/1qERaSlmZQP2XZATQs6LTm5d0JwWhCYaF/view?usp=sharing))
 
 - ⚡ Fun fact **I'm a musician**
 
