@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekremtahaunlu" alt="ekremtahaunlu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ekremtahanl1" target="blank"><img src="https://img.shields.io/twitter/follow/ekremtahanl1?logo=twitter&style=for-the-badge" alt="ekremtahanl1" /></a> </p>
-
 - 🔭 I’m currently working on **Unity - C#**
 
 - 🌱 I’m currently learning **Unity - C#**
 
 - 📫 How to reach me **ekremtahaunlu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qERaSlmZQP2XZATQs6LTm5d0JwWhCYaF/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/18bxsSCJDBf1VKPkfTa5sMAIQIe75KKTZ/view?usp=sharing] 
 
 - ⚡ Fun fact **I'm a musician**
 
