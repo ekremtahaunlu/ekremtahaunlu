@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ekremtahaunlu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18bxsSCJDBf1VKPkfTa5sMAIQIe75KKTZ/view?usp=sharing] 
+- 📄 Know about my experiences (https://drive.google.com/file/d/1owkBtx9gfdyvEL1GfAgw3fETYb_BQwEh/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a musician**
 
