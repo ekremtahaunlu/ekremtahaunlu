@@ -1,21 +1,21 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF78A&background=FFFFFF00&center=true&width=435&lines=Welcome+Stranger!" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Ekrem Taha Unlu</h1>
-<h3 align="center">A passionate game developer from Türkiye</h3>
+<h3 align="center">A passionate aspiring software developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekremtahaunlu&label=Profile%20views&color=0e75b6&style=flat" alt="ekremtahaunlu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekremtahaunlu" alt="ekremtahaunlu" /></a> </p>
 
-- 🔭 I’m currently working on **Unity - C#**
+- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Unity - C#**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **ekremtahaunlu@gmail.com**
 
 - 📄 Know about my experiences (https://drive.google.com/file/d/1owkBtx9gfdyvEL1GfAgw3fETYb_BQwEh/view?usp=sharing)
 
-- ⚡ Fun fact **I'm a musician**
+- ⚡ Fun fact **I'm a professional musician**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
